@@ -1,4 +1,4 @@
-# BlindAssisstanceSystem
+# Blind Assisstance System
 # Setup Instructions
   To run the real-time object detection scripts on your local machine, follow the steps below:
 ## Step 1: Clone the YOLOv5 Repository
